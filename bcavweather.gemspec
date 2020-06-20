@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'j.bai@wustl.edu'
   s.files       = ["lib/bcavweather.rb"]
   s.homepage    =
-    ' temporarily blank '
+    ' https://rubygems.org/gems/bcavweather '
   s.license       = 'MIT'
 end
