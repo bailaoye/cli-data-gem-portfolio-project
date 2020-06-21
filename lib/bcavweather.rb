@@ -1,5 +1,3 @@
-class Test
-  def self.talk
-    puts "Hi"
-  end
-end
+require 'nokogiri'
+require 'open-uri'
+require 'pry'
