@@ -1,0 +1,2 @@
+class Airports::CLI
+end
