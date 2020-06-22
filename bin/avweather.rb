@@ -1,1 +1,0 @@
-AvWeather::CLI.new.call
