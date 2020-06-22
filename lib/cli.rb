@@ -1,6 +1,9 @@
+require_relative './bin/avweather'
+
 class AvWeather::CLI
+
   def call
-    AvWeather::CLI.new
+    puts "Hello"
   end
 
 
